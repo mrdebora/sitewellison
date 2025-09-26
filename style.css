@@ -60,10 +60,10 @@ button:hover {
     font-size: 2.5rem; 
   }
   .deadpool-main img {
-    width: 80vw; 
-    margin-top: 30px;
+  width: min(90vw, 500px); 
+  height: auto;            
+  margin-top: 30px;
   }
-
   button {
     padding: 10px 16px;
     font-size: 1rem;
