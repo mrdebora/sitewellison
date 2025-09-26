@@ -25,8 +25,9 @@
 }
 
 .deadpool-main img {
-  width: 800px;
-  margin-top: 100px;
+  width: min(90vw, 800px);
+  height: auto;
+  margin-top: 60px;
 }
 
 .bottons{
